@@ -2,8 +2,8 @@ FLAGS    = -z execstack -fno-stack-protector
 FLAGS_32 = -static -m32
 TARGET   = server stack-L1 stack-L2 stack-L3 stack-L4
  
-L1 = 100
-L2 = 180
+L1 = 239
+L2 = 150
 L3 = 200
 L4 = 80
 
